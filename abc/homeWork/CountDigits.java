@@ -1,4 +1,4 @@
-package HomeWork;
+package homeWork;
 
 public class CountDigits {
 
@@ -10,9 +10,9 @@ public class CountDigits {
 			num=num/10;
 			count++;
 			if (count==2) {
-				System.out.println("äâòğå ì2 ñôøåú :) éùùùùùù");
+				System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½2 ï¿½ï¿½ï¿½ï¿½ï¿½ :) ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 			}else {
-				System.out.println("àúä ìà áñéôøä äùğéä");
+				System.out.println("ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½");
 			}
 		}
 		System.out.println("The input number is- "+ number + " The number of digits is - "+count);

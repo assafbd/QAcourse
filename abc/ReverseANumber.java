@@ -13,7 +13,7 @@ public class ReverseANumber {
 		
 		int  reversed = 0;
 
-		for (int num =873 ; num != 0; num = num/ 10) { //int num should  be deleted if we use scanner
+		for (int num =97233 ; num != 0; num = num/ 10) { //int num should  be deleted if we use scanner
 			int digit = num % 10;
 			reversed = reversed * 10 + digit;
 		}

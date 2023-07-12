@@ -6,7 +6,6 @@ public class BreakOrContinue {
 	
 	for (int number = 1; number < 101; number++) {
 		
-
 			  if (number % 2 == 0) {
 			    System.out.println(number+" Number is Even");
 			    if (number ==88) {
